@@ -8,10 +8,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Initialize weights randomly.
+2.Compute predicted values.
+3.Compute gradient of loss function.
+4.Update weights using gradient descent.
+   
 
 ## Program:
 ```
@@ -59,7 +61,8 @@ print(f"Predicted value: {pre}")
 
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/Vinishofficial/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146931793/9362992f-4620-424b-9530-bb95bad04d24)
+
 
 
 ## Result:
