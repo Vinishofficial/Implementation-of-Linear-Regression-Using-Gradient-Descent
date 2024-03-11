@@ -7,17 +7,16 @@ To write a program to predict the profit of a city using the linear regression m
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm:
-```
+## Algorithm
 1. Initialize weights randomly.
-2.Compute predicted values.
-3.Compute gradient of loss function.
-4.Update weights using gradient descent.
-```
+2. Compute predicted values.
+3. Compute gradient of loss function.
+4. Update weights using gradient descent.
+
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
-Developed by: VINISH RAJ R
+Developed by: VINISHRAJ R
 RegisterNumber: 212223230243
 
 import numpy as np
@@ -59,8 +58,15 @@ print(prediction)
 print(f"Predicted value: {pre}")
 
 ```
+
 ## Output:
-![image](https://github.com/Vinishofficial/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146931793/9362992f-4620-424b-9530-bb95bad04d24)
+![3-1](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/82357172-a8e1-4460-bff9-f861163e26a5)
+
+![3-2](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/0cf10207-afe4-4af4-88f7-6d4bd16e1533)
+
+![3-3](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/0191b0a3-6748-41c3-a165-85315f7ea405)
+
+![3-4](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/e302cdd8-2436-47d8-9411-67298513e90a)
 
 
 
